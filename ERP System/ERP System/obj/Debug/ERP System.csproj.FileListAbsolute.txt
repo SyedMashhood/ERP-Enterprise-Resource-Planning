@@ -1,0 +1,22 @@
+E:\VP Programs\ERP System\ERP System\bin\Debug\ERP System.exe.config
+E:\VP Programs\ERP System\ERP System\bin\Debug\ERP System.exe
+E:\VP Programs\ERP System\ERP System\bin\Debug\ERP System.pdb
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP System.csprojResolveAssemblyReference.cache
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP_System.Form1.resources
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP_System.Properties.Resources.resources
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP System.csproj.GenerateResource.Cache
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP System.exe
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP System.pdb
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP_System.Myconn.resources
+E:\VP Programs\ERP System\ERP System\obj\Debug\ERP_System.Form2.resources
+C:\Users\Mashhood\Desktop\ERP System\ERP System\bin\Debug\ERP System.exe.config
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP System.exe
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP System.pdb
+C:\Users\Mashhood\Desktop\ERP System\ERP System\bin\Debug\ERP System.exe
+C:\Users\Mashhood\Desktop\ERP System\ERP System\bin\Debug\ERP System.pdb
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP System.csprojResolveAssemblyReference.cache
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP_System.Form1.resources
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP_System.Form2.resources
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP_System.Myconn.resources
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP_System.Properties.Resources.resources
+C:\Users\Mashhood\Desktop\ERP System\ERP System\obj\Debug\ERP System.csproj.GenerateResource.Cache
